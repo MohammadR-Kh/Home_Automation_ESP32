@@ -5,8 +5,8 @@
 #include <Adafruit_BMP280.h>
 #include <ESP32Servo.h>
 
-const char* ssid = "KhMrMo";
-const char* password = "M.r.k.h.1113.";
+const char* ssid = "****";
+const char* password = "****";
 
 int lamp1Pin = 23;
 int lamp2Pin = 14;
